@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noImpurities
 - 👀 I’m interested in game and anime
-- 🌱 I’m currently learning ArkTS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me 📧1960689495@qq.com
 
 <!---
